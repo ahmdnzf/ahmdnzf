@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ahmdnzf
 - 👀 I’m interested in coding and cyber security
-- 🌱 I’m currently learning diploma of computer science
+- 🌱 I’m currently learning degree of netcentric computing
 - 📫 You can reach me on instagram @ahmdnzfff
 
 <!---
